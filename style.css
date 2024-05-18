@@ -4,6 +4,9 @@ header{
   width: auto;
   margin: 0px;
 }
+header h1{
+  margin: 0px;
+}
 .logo{
  width: 167px;
   height: 69px;
@@ -32,4 +35,7 @@ text-align: center;
 }
 body{
   margin: 0px;
+}
+main h2{
+  text-align: center;
 }
